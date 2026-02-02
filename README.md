@@ -4,12 +4,18 @@
 ---
 
 ## 🔥 GitHub 활동 통계
-![wjdwhddls's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wjdwhddls&show_icons=true&theme=dark&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wjdwhddls&theme=github_dark)
 
 ---
 
-## 📊 사용 언어
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wjdwhddls&layout=compact&theme=dark&langs_count=8)
+## 📊 사용 언어 & 통계
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wjdwhddls&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wjdwhddls&theme=github_dark)
+
+---
+
+## 📈 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wjdwhddls&theme=dark)](https://github.com/wjdwhddls)
 
 ---
 
