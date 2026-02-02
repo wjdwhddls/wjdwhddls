@@ -4,16 +4,14 @@
 ---
 
 ## 🔥 GitHub 활동 통계
-![wjdwhddls's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjdwhddls&show_icons=true&theme=dark)  
+![wjdwhddls's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjdwhddls&show_icons=true&theme=dark&cache_seconds=1800)  
 
 ---
 
 ## 📊 사용 언어
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdwhddls&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdwhddls&layout=compact&theme=dark&cache_seconds=1800)
 
 ---
-
-
 
 ## 🛠️ 기술 스택
 - **언어**: Python, Java, JavaScript, TypeScript
@@ -30,4 +28,4 @@
 
 ## 🌍 연락처
 - 📧 Email: **bfpark99@naver.com**
-- 📝 Blog: [[jjong0425 작업실](https://jjong0425.tistory.com)]
+- 📝 Blog: [jjong0425 작업실](https://jjong0425.tistory.com)
